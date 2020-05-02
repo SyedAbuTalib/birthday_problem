@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require 'set'
-
 def play(people)
   enumerated_birthdays = Hash.new(0)
 
