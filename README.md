@@ -45,12 +45,16 @@ But we don't need to be part of the two people who share a birthday.
 We need to account that other people shake hands with each other,
 so the total amount of handshakes is actually:
 
-![CodeCogsEqn](https://user-images.githubusercontent.com/18503982/80858114-cfb5ea00-8c1c-11ea-9e88-08f22bd405ca.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18503982/80858114-cfb5ea00-8c1c-11ea-9e88-08f22bd405ca.gif">
+</p>
 
 And in each handshake, there is a 1/365 chance of the two people sharing birthdays.
 We can use this information and use the "At least 1" rule:
 The chances of having "At least 1" is the same probability of 1 - None
 
-![CodeCogsEqn (2)](https://user-images.githubusercontent.com/18503982/80858627-1a853100-8c20-11ea-8e16-bd24590575b6.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18503982/80858627-1a853100-8c20-11ea-8e16-bd24590575b6.gif">
+</p>
 
 We barely have over a 50% chance of two people sharing a birthday when it comes to 23 people.
